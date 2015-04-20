@@ -1,0 +1,5 @@
+replace the letter 's' with the letter 'z'
+
+do not replace a captialized letter 'S'
+
+do not replace the first letter of a word
